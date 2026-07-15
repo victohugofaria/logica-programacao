@@ -26,3 +26,9 @@ int main()
 
     return 0;
 }
+
+/**
+- Solicita horas trabalhadas, valor da hora e percentual de desconto.
+- Calcula o salário bruto, total de descontos e salário líquido.
+- Foi feito uma interface básica para interação.
+ */
